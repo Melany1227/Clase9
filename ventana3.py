@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import QMainWindow, QDesktopWidget, QApplication, QLabel, Q
 from PyQt5 import QtGui
 
 from cliente import Cliente
-
+####
 
 class Ventana3(QMainWindow):
     def __init__(self, anterior):
